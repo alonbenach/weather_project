@@ -1,0 +1,15 @@
+# Compiled python files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+
+# Docker
+.dockerignore
+Dockerfile
+.docker/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
